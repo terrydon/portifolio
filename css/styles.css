@@ -18,5 +18,9 @@ p {
 }
 .ed {
   background-color: orange;
-  
+
+}
+.work{
+  background-color: green;
+  font-style: italic;
 }
