@@ -1,0 +1,15 @@
+.temp {
+  background-color: purple;
+}
+img {
+  float: right;
+  width: 10%;
+  height: 10%;
+}
+h1{
+  text-align: right;
+  color: red;
+}
+body{
+  background-color: darkblue;
+}
