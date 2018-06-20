@@ -2,7 +2,7 @@
 #TERRYDON WAMBOGA
 #my first moringa prep project personal project
 #the website needs an upto date browser and intenet
-#https://github.com/terrydon/delani_studio_site.git
-#https://github.com/terrydon/portifolio-work.git
-#https://github.com/terrydon/happy-trails.git
-#https://github.com/terrydon/my-moringa-school.git
+#https://terrydon.github.io/portifolio/
+#https://terrydon.github.io/portifolio-work/
+#https://terrydon.github.io/happy-trails/
+#https://terrydon.github.io/my-moringa-school/
